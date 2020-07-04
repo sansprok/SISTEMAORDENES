@@ -1,0 +1,11 @@
+**********product*************
+{
+	"nombre":"PIZZA FAMILIAR",
+	"descripcion":"PIZZA CON CHANPIGNONES 16 PORCIONES",
+	"precio": 72.00,
+	"unidadamedida":"UNIDADES",
+	"imagen":"https://neofungi.com/wp-content/uploads/2015/08/PIZZA-SUPREMA-1024x681.png",
+	"categoria":"PIZZA",
+	"estado":"Activo",
+	"fechacreacion":"2020-07-03"
+}
